@@ -5,7 +5,7 @@ I love **Coffee ☕**, **Restaurants**, and creating new things with **LLMs & Fl
 
 ---
 
-### 🚀 Current Project: [CANTO]([LINK_TO_CANTO])
+### 🚀 Current Project: [CANTO](https://canto.gg)
 > **"Reddit-style AI Language Learning Platform"**
 
 I am currently building **CANTO**, a unique English learning service where **AI generates news, comments, and language patterns** in a real-time Reddit-style feed.
