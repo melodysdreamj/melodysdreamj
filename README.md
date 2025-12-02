@@ -15,12 +15,13 @@ I am currently building **CANTO**, a unique English learning service where **AI 
 
 ---
 
-### 🔭 Representative Works
-I specialize in training Large Language Models and optimizing App performance.
+### 🔭 Representative Works (AI, Mobile & Web)
+I specialize in training Large Language Models, optimizing Apps, and building Web services.
 
 * 🤖 **[WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM)** (★700+): An LLM that combines the principles of WizardLM and VicunaLM.
 * 🇰🇷 **[KoVicuna](https://github.com/melodysdreamj/KoVicuna)** (★120+): Korean-specialized Vicuna Model.
 * 📱 **[June](https://github.com/melodysdreamj/june)**: A lightweight & modern State Management library for **Flutter**.
+* 📊 **[ETF Encyclopedia](https://etfencyclopedia.uk)**: Simple ETF wiki for personal study. Built to test **SEO & SvelteKit** integration.
 
 ---
 
