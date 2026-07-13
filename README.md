@@ -12,4 +12,3 @@ I build open-source tools you can run on your own server.
 
 - 🇰🇷 [KoVicuna](https://github.com/melodysdreamj/KoVicuna) — a Korean Vicuna, trained on 620K ShareGPT conversations translated into Korean
 - 💙 [june](https://github.com/melodysdreamj/june) — Flutter state management that feels like Flutter
-- 🎨 [canto.today](https://canto.today) — AI-powered 31-language visual news
