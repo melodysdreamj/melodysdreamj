@@ -1,6 +1,6 @@
-Hi, I'm June.
+**[Leafen](https://github.com/leafen-org/leafen)** — Notion, rebuilt as open source. Runs on your own computer or server, AGPL-3.0. → [leafen.org](https://leafen.org)
 
-I build open-source tools you can run on your own server.
+I build open-source software.
 
 **[WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM)** — an early open LLM (2023) that combined WizardLM's in-depth dataset expansion with Vicuna's multi-turn conversations and tuning. Its 70K-conversation dataset and weights seeded a family of community models.
 
